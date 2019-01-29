@@ -1,2 +1,2 @@
 # test
-Test cinfig
+Test config
